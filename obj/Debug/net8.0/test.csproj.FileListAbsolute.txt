@@ -1,0 +1,15 @@
+/workspaces/test/bin/Debug/net8.0/test
+/workspaces/test/bin/Debug/net8.0/test.deps.json
+/workspaces/test/bin/Debug/net8.0/test.runtimeconfig.json
+/workspaces/test/bin/Debug/net8.0/test.dll
+/workspaces/test/bin/Debug/net8.0/test.pdb
+/workspaces/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/workspaces/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/workspaces/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/workspaces/test/obj/Debug/net8.0/test.sourcelink.json
+/workspaces/test/obj/Debug/net8.0/test.dll
+/workspaces/test/obj/Debug/net8.0/refint/test.dll
+/workspaces/test/obj/Debug/net8.0/test.pdb
+/workspaces/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/workspaces/test/obj/Debug/net8.0/ref/test.dll
